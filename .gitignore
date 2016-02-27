@@ -1,0 +1,5 @@
+*.cache
+*.system-ca-bundle
+*.last-run
+*.merged-ca-bundle
+*.user-ca-bundle

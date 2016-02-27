@@ -1,2 +1,3 @@
 # SublimeText3Settings
-My Sublime Text 3 Settings
+
+All the packages and settings I use for Sublime Text 3.
