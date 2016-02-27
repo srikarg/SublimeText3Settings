@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"Emmet",
+		"LiveReload",
+		"MarkdownEditing",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray"
+	]
+}
