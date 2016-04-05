@@ -7,15 +7,16 @@
 	[
 		"AdvancedNewFile",
 		"AngularJS",
+		"Better CoffeeScript",
 		"DocBlockr",
 		"Emmet",
-		"GAS-x86 (or x64) highlighting scheme",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
 		"jQuery",
 		"LiveReload",
 		"MarkdownEditing",
 		"Package Control",
+		"Sass",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"Theme - Spacegray"
