@@ -1,0 +1,6 @@
+{
+    "browser": "default",
+    "parser": "github",
+    "build_action": "browser",
+    "enable_mathjax": true
+}
