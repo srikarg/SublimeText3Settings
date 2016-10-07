@@ -3,3 +3,4 @@
 *.last-run
 *.merged-ca-bundle
 *.user-ca-bundle
+oscrypto-ca-bundle.crt

@@ -42,7 +42,7 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+        "Vintage"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
